@@ -1,0 +1,4 @@
+Goal: Predict academic success or failure of students based on behavioral data.
+Data: Attendance, assignment completion, previous grades, and extracurricular engagement.
+Why Decision Tree: Non-linear and interpretable, allowing educators to identify weak areas.
+Advantage: Empowers personalized education plans.
