@@ -1,0 +1,4 @@
+Goal: Detect potentially fraudulent insurance claims.
+Data: Claim amount, location, policy age, customer history.
+Why Decision Tree: Captures hidden non-linear fraud patterns with high interpretability.
+Advantage: Reduces manual fraud inspection time and improves trustworthiness.
