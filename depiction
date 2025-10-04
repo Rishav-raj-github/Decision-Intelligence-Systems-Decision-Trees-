@@ -1,0 +1,4 @@
+Goal: Recommend suitable employees for promotion or training programs.
+Data: Employee experience, ratings, skill assessments, and project outcomes.
+Why Decision Tree: Simple branching logic enables explainable HR analytics.
+Advantage: Promotes fairness and transparency in human capital decisions.
