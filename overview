@@ -1,1 +1,5 @@
 
+Goal: Build a credit scoring model that classifies loan applicants as high or low risk.
+Data: Applicant demographics, credit history, existing debts, and income levels.
+Why Decision Tree: Handles categorical (occupation) and numerical (income) variables seamlessly.
+Advantage: Offers transparent approval logic, aiding regulatory compliance.
